@@ -96,4 +96,8 @@ I’m excited to continue exploring advanced Salesforce integrations and automat
 
 If you are also working on Salesforce integrations or Flow automation, I’d love to connect and exchange ideas.
 
+https://www.linkedin.com/posts/lalji-prajapati-75b942147_linkedin-post-with-http-callout-flowspdf-ugcPost-7461678321249050624-8BAY?utm_source=share&utm_medium=member_desktop&rcm=ACoAACOOcbcB-_FiTVjFXH4gkGz1plPuEmSrHl8
+
+https://www.linkedin.com/in/lalji-prajapati-75b942147/
+
 #Salesforce #SalesforceFlow #HTTPCallout #LinkedInAPI #OAuth #Automation #CRM #SalesforceDeveloper #Integration #FlowBuilder #SalesforceAdmin #SalesforceConsultant #Tech #Learning #KeepLearningAndEarning.
